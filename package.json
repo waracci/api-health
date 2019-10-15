@@ -1,5 +1,5 @@
 {
-  "name": "api-health-middleware",
+  "name": "node-api-health",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
