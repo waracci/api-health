@@ -1,14 +1,16 @@
 # node-api-health
 
-Node Js and Express middleware to monitor and log API access. The logs, among other metrics, are displayed realtime on a live dashboard.
+Node Js and Express middleware to monitor and log API access. The logs, among other metrics, are displayed realtime on a [live dashboard](https://apihealth.co/logs).
 
 ## Getting Started
 
-1 Sign up on node-api-health website(coming soon)
+1 Sign up on api-health website [https://apihealth.co/logs](https://apihealth.co/logs).
+
+2 Create an app via the dashboard [https://apihealth.co/dashboard](https://apihealth.co/dashboard)
 
 2 Copy the credentials provided to your `.env` file
 
-> Example: `API_HEALTH_API_KEY=https://example.com/api/sendlogs?apiKey=sample_key`
+> Example: `API_HEALTH_API_KEY=https://api.apihealth.co/api/sendlogs?apiKey=sample_key`
 
 3 Configure your Node JS API server
 
@@ -50,7 +52,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
 * Inspiration
 * etc
 
